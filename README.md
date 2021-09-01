@@ -1,5 +1,4 @@
 ### Hi! I am Alexandre Marques 🖐️
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-carvalho-marques-b7804788/)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandreacm.marques/)
